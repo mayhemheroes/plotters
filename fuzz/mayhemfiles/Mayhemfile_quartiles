@@ -1,0 +1,7 @@
+project: plotters
+target: quartiles
+duration: 90
+
+cmds:
+    - cmd: /quartiles
+

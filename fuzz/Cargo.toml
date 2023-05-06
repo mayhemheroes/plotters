@@ -23,3 +23,9 @@ name = "example_chart"
 path = "fuzz_targets/example_chart.rs"
 test = false
 doc = false
+
+[[bin]]
+name = "quartiles"
+path = "fuzz_targets/quartiles.rs"
+test = false
+doc = false
