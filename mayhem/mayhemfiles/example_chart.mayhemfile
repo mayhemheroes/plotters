@@ -1,0 +1,7 @@
+project: plotters
+target: example_chart
+duration: 90
+
+cmds:
+    - cmd: /example_chart
+
